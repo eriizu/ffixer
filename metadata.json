@@ -1,0 +1,8 @@
+{
+    "name": "Focus Fixer",
+    "description": "Work arround for mutter's non consitent focus on workspace change. Will always focus the topmost windowd from the main display; no exceptions.",
+    "uuid": "ffixer@eiss.fr",
+    "shell-version": [
+        "42"
+    ]
+}
